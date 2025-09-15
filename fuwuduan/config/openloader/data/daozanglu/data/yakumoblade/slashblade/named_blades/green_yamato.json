@@ -1,0 +1,15 @@
+{
+  "name": "yakumoblade:green_yamato",
+  "properties": {
+    "attack_base": 10.0,
+    "max_damage": 180,
+    "special_effects": [
+      "yakumoblade:very_green"
+    ]
+  },
+  "render": {
+    "model": "yakumoblade:model/relicofpaseone/dahe.obj",
+    "summon_sword_color": 3729097,
+    "texture": "yakumoblade:model/relicofpaseone/yamato.png"
+  }
+}
